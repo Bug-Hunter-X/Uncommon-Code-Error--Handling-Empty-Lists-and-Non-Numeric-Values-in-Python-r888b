@@ -1,0 +1,1 @@
+This repository demonstrates a common but often overlooked error in Python: handling empty lists and non-numeric values when calculating averages.  The `bug.py` file contains a function that fails when an empty list or a list with non-numeric elements is passed. The `bugSolution.py` file provides a corrected version.
